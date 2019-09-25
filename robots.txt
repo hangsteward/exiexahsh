@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ighaayani.tomich.org/sitemap.xml
